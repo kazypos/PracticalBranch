@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 1. new text to test
 2. add more text
+=======
+1. new text to test 
+2. change from website
+>>>>>>> origin/master
