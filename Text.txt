@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-1. add text from computer
-2. add them dong nuwa
-=======
-1. add text from coklasjdflaskldjfkljs
->>>>>>> origin/master
+Change from NewRelease branch
