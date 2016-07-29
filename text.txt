@@ -1,1 +1,2 @@
 add text lan 1
+add file lan 2
